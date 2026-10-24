@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-24",
   "translations": {
     "+1 Extra Instinct Dodge": "+1 مراوغة إضافية بالغريزة",
     "+1 Instinct Dodge": "+1 مراوغة بالغريزة",
@@ -936,6 +936,14 @@
     "strategy": "الاستراتيجية",
     "third-sea": "البحر الثالث",
     "tips": "نصائح",
-    "types": "الأنواع"
+    "types": "الأنواع",
+    "A Mythical Natural fruit introduced in Update 30, with control over metal and magnetic forces.": "فاكهة طبيعية خرافية أُضيفت في التحديث 30، وتتيح التحكم بالمعادن والقوى المغناطيسية.",
+    "Collecting scrap builds magnetic power, strengthening the arms, combos and pull. Taking damage drains this power.": "يُنمّي جمع الخردة القوة المغناطيسية، ويعزّز الذراعين وتسلسل الضربات والجذب. يؤدي تلقّي الضرر إلى استنزاف هذه القوة.",
+    "Metal-arm melee combos grow with magnetic power. Transformed attacks use arm swings and a ground stomp.": "يطول تسلسل هجمات الاشتباك بالذراعين المعدنيتين مع زيادة القوة المغناطيسية. عند التحوّل، تُستخدم ضربات الذراعين والدوس على الأرض.",
+    "Tap launches pulling projectiles; hold fires a magnetic beam. Transformed: guided missiles or a heavy cannon blast.": "يطلق الضغط القصير مقذوفات تجذب الأعداء، ويطلق الضغط المطوّل شعاعًا مغناطيسيًا. عند التحوّل: صواريخ موجّهة أو طلقة مدفع ثقيل.",
+    "Tap traps enemies in a magnetic cage; hold expands it. Transformed: an area attack or sustained magnetic pull.": "يحبس الضغط القصير الأعداء في قفص مغناطيسي، ويوسّعه الضغط المطوّل. عند التحوّل: هجوم يصيب منطقة أو جذب مغناطيسي مستمر.",
+    "Tap lifts and slams a target; hold draws in nearby scrap. Transformed: a scrap slam or spinning attack.": "يرفع الضغط القصير الهدف ثم يطرحه أرضًا، ويجذب الضغط المطوّل الخردة القريبة. عند التحوّل: ضربة بالخردة أو هجوم دوراني.",
+    "At full magnetic power, transforms into a mech with damage resistance, weaker against lightning. Press again to eject and leave a pulling, self-destructing frame.": "تتيح القوة المغناطيسية الممتلئة التحوّل إلى آلي مقاوم للضرر، لكنه أقل مقاومة لهجمات البرق. يؤدي الضغط مجددًا إلى الخروج منه وترك هيكل يجذب الأعداء ثم ينفجر.",
+    "Tap grabs an opponent and unequips their sword; hold enables jetpack flight. Flight is faster when transformed.": "يمسك الضغط القصير بالخصم وينزع سيفه من حالة التجهيز، ويتيح الضغط المطوّل الطيران بحقيبة نفّاثة. يكون الطيران أسرع عند التحوّل."
   }
 }
